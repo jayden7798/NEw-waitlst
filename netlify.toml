@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://smartrisk.io/*"
+  to = "https://smartrisk-waitlist.io/:splat"
+  status = 301
+  force = true
